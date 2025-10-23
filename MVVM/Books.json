@@ -1,0 +1,11 @@
+{
+    "Sci-Fi": [],
+    "Terror": [],
+    "Romance": [
+        {
+            "title": "Alice",
+            "Code": "12",
+            "genre": "Romance"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "username": "nico",
+        "password": "dasd",
+        "email": "456"
+    },
+    {
+        "username": "Nico",
+        "password": "dasd",
+        "email": "1234"
+    },
+    {
+        "username": "Jhon",
+        "password": "spartan@unsc.gov.co",
+        "email": "1234"
+    },
+    {
+        "username": "Joso",
+        "password": "dasd@sdad.com",
+        "email": "4561"
+    },
+    {
+        "username": "Ralph",
+        "password": "dasdas",
+        "email": "asdas"
+    }
+]
